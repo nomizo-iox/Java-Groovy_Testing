@@ -1,5 +1,6 @@
 package com.nomizo
 
+import com.nomizo.model.FizzBuzz
 import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.DisplayName
 import org.junit.jupiter.api.Test
