@@ -1,5 +1,6 @@
 package com.nomizo
 
+import com.nomizo.model.Users
 import org.junit.jupiter.api.Test
 
 class UsersTest {
