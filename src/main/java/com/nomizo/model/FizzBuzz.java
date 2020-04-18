@@ -1,4 +1,4 @@
-package com.nomizo;
+package com.nomizo.model;
 
 public class FizzBuzz {
     public String play(final int num) {

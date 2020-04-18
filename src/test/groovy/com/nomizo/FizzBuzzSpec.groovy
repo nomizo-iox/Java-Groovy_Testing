@@ -1,5 +1,6 @@
 package com.nomizo
 
+import com.nomizo.model.FizzBuzz
 import spock.lang.Specification
 
 class FizzBuzzSpec extends Specification {

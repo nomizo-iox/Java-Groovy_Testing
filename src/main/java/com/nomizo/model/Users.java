@@ -1,4 +1,4 @@
-package com.nomizo;
+package com.nomizo.model;
 
 import java.util.Objects;
 
